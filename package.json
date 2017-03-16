@@ -1,0 +1,25 @@
+{
+  "name": "build-fail-repro",
+  "description": "Repro the failing build",
+  "license": "None",
+  "repository": "None",
+  "dependencies": {
+    "browserify": "git+ssh://git@github.com/repro-user/node-browserify.git",
+    "gulp": "git+ssh://git@github.com:repro-user/gulp.git",
+    "grunt": "git+ssh://git@github.com:repro-user/grunt.git",
+    "forever": "git+ssh://git@github.com:repro-user/forever.git",
+    "lodash": "git+ssh://git@github.com:repro-user/lodash.git",
+    "request": "git+ssh://git@github.com:repro-user/request.git",
+    "async": "git+ssh://git@github.com:repro-user/async.git",
+    "express": "git+ssh://git@github.com:repro-user/express.git",
+    "underscore": "git+ssh://git@github.com:repro-user/underscore.git",
+    "chalk": "git+ssh://git@github.com:repro-user/chalk.git",
+    "bluebird": "git+ssh://git@github.com:repro-user/bluebird.git",
+    "commander": "git+ssh://git@github.com:repro-user/commander.js.git",
+    "debug": "git+ssh://git@github.com:repro-user/debug.git",
+    "jquery": "git+ssh://git@github.com:repro-user/jquery.git",
+    "node-fs-extra": "git+ssh://git@github.com:repro-user/node-fs-extra.git",
+    "glob": "git+ssh://git@github.com:repro-user/node-glob.git",
+    "moment": "git+ssh://git@github.com:repro-user/moment.git"
+  }
+}
